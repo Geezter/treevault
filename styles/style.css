@@ -1,0 +1,154 @@
+body {
+    background-color: #A49592;
+}
+
+.navbar {
+    background-color: #EED8C9;
+    
+}
+
+
+.ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.li {
+    display: inline;
+}
+
+.li:hover {
+    color: #A49592;
+    opacity: 50%;
+}
+
+.logo {
+    width: 35vh;
+}
+
+.btn {
+    background-color: #A49592;
+    border: black;
+}
+
+.btn:hover {
+    background-color: #E99787;
+
+}
+
+.card {
+    background-color: #EED8C9;
+    border: 0px;
+    border-color: #EED8C9;
+    width: 100%;
+    border-radius: 15px;
+}
+
+.justify-content-center {
+    background-color: #EED8C9;
+    border-radius: 15px;
+}
+
+.dropdown-menu {
+    background-color: #727077;
+}
+
+#td {
+    background-color: #EED8C9;
+    border-radius: 0 0 15px 15px;
+}
+
+#th {
+    background-color: #727077;
+    
+}
+
+#thfirst {
+    border-radius: 15px 0 0 15px;
+}
+
+.table {
+    border-radius: 15px;
+}
+
+.checkout {
+    background-color: #EED8C9;
+    border-radius: 15px;
+}
+
+.formtext {
+    font-size: 14px;
+}
+
+.card-img-top {
+    border-radius: 15px 15px 0px 0px;
+}
+
+.productImg {
+    border-radius: 15px;
+    }
+
+footer {
+    /* background-color: #EED8C9; */
+    width: 100%;
+}
+
+.submitFeedback {
+    height: 100%;
+    width: 100%;
+    background-color: #EED8C9;
+}
+
+input {
+    background-color:#E99787;
+    color:#EED8C9;
+  }
+
+.some {
+    list-style-type: none;
+}
+
+.listitem {
+    color:black;
+}
+
+.contactInfo {
+    text-decoration: none;
+    color: black;
+    font-style: normal;
+    font-size: 3vh;
+}
+
+.contactInfo:hover {
+    color:#EED8C9;
+
+}
+
+a {
+    font-style: normal;
+}
+
+#map {
+    border: 0;
+    width: 100%;
+    border-radius: 15px;
+}
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+tr {
+    
+    border-color: #A49592;
+}
+
+#cartTopic {
+    background-color: #727077;
+    border-bottom: 4px #A49592 solid;
+}
+
+.dropdown-item {
+    cursor: pointer;
+}
