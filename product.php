@@ -32,7 +32,7 @@ $product = new product($itemId, $conn);
             <br>
                    
             <script
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAJoSJk7OYGnPFEAFm25Z8ZgySZEp9jtro&callback=initMap&v=weekly"
+            src="https://maps.googleapis.com/maps/api/js?key=MYKEY&callback=initMap&v=weekly"
             defer
             ></script>
 
